@@ -1,0 +1,21 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment and package management
+env/
+venv/
+*.env
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.swp
+
+# Logs and debug files
+*.log
+
+# Output files
+*.txt
+fitness_plan.txt
